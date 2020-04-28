@@ -1,4 +1,4 @@
-# WELLCOME PYTHON
+# WELLCOME PYTHON3
 
 The repositorie next containt the projects for second trimestrt is about
 programming language Phython that is a language very high level
