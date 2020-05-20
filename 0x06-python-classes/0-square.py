@@ -3,4 +3,6 @@
 
 
 class Square:
+    """Class Square empety
+    """
     pass
